@@ -1,0 +1,17 @@
+C:\Users\shvyrev.aa\Desktop\Notepad--\Notepad--\obj\Debug\net6.0-windows\Notepad--.csproj.AssemblyReference.cache
+C:\Users\shvyrev.aa\Desktop\Notepad--\Notepad--\obj\Debug\net6.0-windows\Notepad__.Form1.resources
+C:\Users\shvyrev.aa\Desktop\Notepad--\Notepad--\obj\Debug\net6.0-windows\Notepad--.csproj.GenerateResource.cache
+C:\Users\shvyrev.aa\Desktop\Notepad--\Notepad--\obj\Debug\net6.0-windows\Notepad--.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shvyrev.aa\Desktop\Notepad--\Notepad--\obj\Debug\net6.0-windows\Notepad--.AssemblyInfoInputs.cache
+C:\Users\shvyrev.aa\Desktop\Notepad--\Notepad--\obj\Debug\net6.0-windows\Notepad--.AssemblyInfo.cs
+C:\Users\shvyrev.aa\Desktop\Notepad--\Notepad--\obj\Debug\net6.0-windows\Notepad--.csproj.CoreCompileInputs.cache
+C:\Users\shvyrev.aa\Desktop\Notepad--\Notepad--\bin\Debug\net6.0-windows\Notepad--.exe
+C:\Users\shvyrev.aa\Desktop\Notepad--\Notepad--\bin\Debug\net6.0-windows\Notepad--.deps.json
+C:\Users\shvyrev.aa\Desktop\Notepad--\Notepad--\bin\Debug\net6.0-windows\Notepad--.runtimeconfig.json
+C:\Users\shvyrev.aa\Desktop\Notepad--\Notepad--\bin\Debug\net6.0-windows\Notepad--.dll
+C:\Users\shvyrev.aa\Desktop\Notepad--\Notepad--\bin\Debug\net6.0-windows\Notepad--.pdb
+C:\Users\shvyrev.aa\Desktop\Notepad--\Notepad--\obj\Debug\net6.0-windows\Notepad--.dll
+C:\Users\shvyrev.aa\Desktop\Notepad--\Notepad--\obj\Debug\net6.0-windows\refint\Notepad--.dll
+C:\Users\shvyrev.aa\Desktop\Notepad--\Notepad--\obj\Debug\net6.0-windows\Notepad--.pdb
+C:\Users\shvyrev.aa\Desktop\Notepad--\Notepad--\obj\Debug\net6.0-windows\Notepad--.genruntimeconfig.cache
+C:\Users\shvyrev.aa\Desktop\Notepad--\Notepad--\obj\Debug\net6.0-windows\ref\Notepad--.dll
